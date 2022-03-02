@@ -48,20 +48,3 @@ body {
   background-repeat: no-repeat ;
   background-size: cover ;
   background-position:center;
-}
-.item1{
-  background-color: orangered ;
-  background-image: url(file:///C:/Users/nolja/Desktop/%EA%B5%AC%EC%B0%8C/img/HeroBigStandard_gucci-garden-eye-kr_001_Default.webp);
-}
-.item2{
-  background-color: skyblue ;
-  background-image: url(file:///C:/Users/nolja/Desktop/%EA%B5%AC%EC%B0%8C/img/HeroBigStandard_Exquisite-line-up_001_Default.webp)
-}
-.item3{
-  background-color: darkcyan ;
-  background-image: url(file:///C:/Users/nolja/Desktop/%EA%B5%AC%EC%B0%8C/img/HeroBigMedium_GUCCI-BAMBOO-1947-Gi-Seok_001_Default.webp)
-}
-.item4{
-  background-color: violet ;
-  background-image: url(file:///C:/Users/nolja/Desktop/%EA%B5%AC%EC%B0%8C/img/HeroBigStandard_Kai-Pineapple-01_001_Default.webp)
-}
