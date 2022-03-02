@@ -38,9 +38,9 @@ body {
   float: left;
   list-style: none;
 }
-.slick-dots li button{
+/* .slick-dots li button{
 
-}
+} */
 .test-slider .slider-items{
   width:100%;
   height: 700px;
@@ -48,3 +48,19 @@ body {
   background-repeat: no-repeat ;
   background-size: cover ;
   background-position:center;
+}
+.items1{
+  background: url(https://media.gucci.com/content/HeroBigMedium_768x386/1645531204/HeroBigMedium_Kai-Pineapple-01_001_Default.jpg);
+}
+.items2{
+  background: url(https://media.gucci.com/content/HeroBigStandard_3200x1520/1644416107/HeroBigStandard_gucci-garden-eye-kr_001_Default.jpg);
+}
+.items3{
+  background: url(https://media.gucci.com/content/HeroBigStandard_3200x1520/1645113614/HeroBigStandard_Gucci-LP-ADV-005_001_Default.jpg);
+}
+.items4{
+  background: url(https://media.gucci.com/content/HeroBigStandard_3200x1520/1645881305/HeroBigStandard_Exquisite-line-up_001_Default.jpg);
+}
+.items5{
+  background: url(https://media.gucci.com/content/HeroBigStandard_3200x1520/1632408308/HeroBigStandard_Gucci-ARIA-2021-046_001_Default.jpg);
+}
