@@ -18,10 +18,7 @@ float: left;
   contain: "";
   display: block;
 }
-.con{
-  max-width: 2000px ;
-  margin: 0 auto ;
-}
+
 /* 스타일 */
 
 .nav{
@@ -44,59 +41,12 @@ float: left;
 
 
 
-.slick-arrow{
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 16px;
-  height: 30px;
-  color: #fff;
-  border: none;
-  text-indent: -99999px;
-  overflow: hidden;
-}
-.slick-prev{
-  background: url(https://www.asics.co.kr/admin/skin/default/images/design/banner/btn/btn1_prev.png) ;
-  z-index: 100;
-  left: 1%;
-}
-.slick-next{
-  background: url(https://www.asics.co.kr/admin/skin/default/images/design/banner/btn/btn1_next.png);
-  right: 1%;
-}
-.slick-dots{
-  position: absolute;
-  bottom: 20px;
-  left: 50%;
-  transform: translateX(-50%);
-}
-.slick-dots li{
-  float: left;
-  list-style: none;
-}
-/* .slick-dots li button{
 
-} */
-.banner-slider .slider-items{
-  width:100%;
-  height: 700px;
-  display:block;
-  background-repeat: no-repeat ;
-  background-size: cover ;
-  background-position:center;
+.banner-slider{
+  max-width: 2000px ;
+  margin: 0 auto ;
+  width: 100%;
 }
-.items1{
-  background: url(https://media.gucci.com/content/HeroBigMedium_768x386/1645531204/HeroBigMedium_Kai-Pineapple-01_001_Default.jpg);
-}
-.items2{
-  background: url(https://media.gucci.com/content/HeroBigStandard_3200x1520/1644416107/HeroBigStandard_gucci-garden-eye-kr_001_Default.jpg);
-}
-.items3{
-  background: url(https://media.gucci.com/content/HeroBigStandard_3200x1520/1645113614/HeroBigStandard_Gucci-LP-ADV-005_001_Default.jpg);
-}
-.items4{
-  background: url(https://media.gucci.com/content/HeroBigStandard_3200x1520/1645881305/HeroBigStandard_Exquisite-line-up_001_Default.jpg);
-}
-.items5{
-  background: url(https://media.gucci.com/content/HeroBigStandard_3200x1520/1632408308/HeroBigStandard_Gucci-ARIA-2021-046_001_Default.jpg);
+.slider-items > img{
+  width: 100%;
 }
